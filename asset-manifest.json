@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/matelife/static/css/main.28274fe0.css",
+    "main.js": "/matelife/static/js/main.63327a1b.js",
+    "static/js/787.875dd70a.chunk.js": "/matelife/static/js/787.875dd70a.chunk.js",
+    "static/media/music.mp3": "/matelife/static/media/music.b1764191da3e3e678682.mp3",
+    "static/media/minionki.gif": "/matelife/static/media/minionki.97b872c15560147d97f8.gif",
+    "static/media/Lacquer.ttf": "/matelife/static/media/Lacquer.9733086e8034a0a62dec.ttf",
+    "static/media/background.png": "/matelife/static/media/background.c61f59a327927659122d.png",
+    "static/media/frame.png": "/matelife/static/media/frame.a874f15b977f4b56adef.png",
+    "static/media/board.png": "/matelife/static/media/board.712d14d52e0738b7228d.png",
+    "static/media/matelife.png": "/matelife/static/media/matelife.da66baaabdedee94c412.png",
+    "static/media/frame2.png": "/matelife/static/media/frame2.5a2ee2f8c44b9e7b454c.png",
+    "static/media/line.png": "/matelife/static/media/line.1dfaaa10f1b00a94264d.png",
+    "static/media/heart.png": "/matelife/static/media/heart.401f12b4a6fc8c5f7992.png",
+    "index.html": "/matelife/index.html",
+    "main.28274fe0.css.map": "/matelife/static/css/main.28274fe0.css.map",
+    "main.63327a1b.js.map": "/matelife/static/js/main.63327a1b.js.map",
+    "787.875dd70a.chunk.js.map": "/matelife/static/js/787.875dd70a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28274fe0.css",
+    "static/js/main.63327a1b.js"
+  ]
+}
